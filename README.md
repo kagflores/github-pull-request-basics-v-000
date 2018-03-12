@@ -1,3 +1,4 @@
+++Karen
 # Github Pull Request Basics
 
 ## Objectives:
@@ -61,6 +62,7 @@ fingers will both grasp what's going on.
    it in."
 5. Make some changes on your local machine
 6. Push your code from your local system _back_ to _your_ fork
+//made some changes!
 7. Create a pull request that requests your improved code be "pulled" into the
    source repo.
 
